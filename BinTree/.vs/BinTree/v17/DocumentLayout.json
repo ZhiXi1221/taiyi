@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\taiyi\\BinTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD2EEDD-80E2-4669-9D6E-66D7383F9E29}|BinTree.vcxproj|D:\\taiyi\\BinTree\\BinTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDD2EEDD-80E2-4669-9D6E-66D7383F9E29}|BinTree.vcxproj|solutionrelative:BinTree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinTree.c",
+              "DocumentMoniker": "D:\\taiyi\\BinTree\\BinTree.c",
+              "RelativeDocumentMoniker": "BinTree.c",
+              "ToolTip": "D:\\taiyi\\BinTree\\BinTree.c",
+              "RelativeToolTip": "BinTree.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-02T12:26:40.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

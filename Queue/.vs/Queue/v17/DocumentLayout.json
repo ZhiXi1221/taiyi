@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\taiyi\\Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC79284-9C5B-4EA0-8E69-579CF62A215F}|Queue.vcxproj|D:\\taiyi\\Queue\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC79284-9C5B-4EA0-8E69-579CF62A215F}|Queue.vcxproj|solutionrelative:Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.c",
+              "DocumentMoniker": "D:\\taiyi\\Queue\\Queue.c",
+              "RelativeDocumentMoniker": "Queue.c",
+              "ToolTip": "D:\\taiyi\\Queue\\Queue.c",
+              "RelativeToolTip": "Queue.c",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-02T13:26:45.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

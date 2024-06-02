@@ -1,0 +1,6 @@
+﻿  LList.c
+D:\taiyi\LList\LList.c(38,20): warning C4013: “malloc”未定义；假设外部返回 int
+D:\taiyi\LList\LList.c(38,47): warning C4312: “类型强制转换”: 从“int”转换到更大的“Node *”
+D:\taiyi\LList\LList.c(110,1): warning C4715: “removeNode”: 不是所有的控件路径都返回值
+D:\taiyi\LList\LList.c(55,1): warning C4715: “findKth”: 不是所有的控件路径都返回值
+  LList.vcxproj -> D:\taiyi\LList\x64\Debug\LList.exe

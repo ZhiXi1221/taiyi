@@ -1,2 +1,6 @@
 ﻿  PVZ.cpp
-  PVZ.vcxproj -> D:\taiyi\PVZ\x64\Debug\PVZ.exe
+  tools.cpp
+D:\taiyi\PVZ\PVZ.cpp(27,29): error C2065: “imgZhiWU”: 未声明的标识符
+D:\taiyi\PVZ\PVZ.cpp(45,2): error C3861: “putimagePNG”: 找不到标识符
+D:\taiyi\PVZ\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  正在生成代码...

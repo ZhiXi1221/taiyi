@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|D:\\taiyi\\PVZ\\PVZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|solutionrelative:PVZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|D:\\taiyi\\PVZ\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|solutionrelative:tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|D:\\taiyi\\PVZ\\tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{953F7790-68A5-4AD3-849A-099874E6ED27}|PVZ.vcxproj|solutionrelative:tools.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tools.cpp",
+              "DocumentMoniker": "D:\\taiyi\\PVZ\\tools.cpp",
+              "RelativeDocumentMoniker": "tools.cpp",
+              "ToolTip": "D:\\taiyi\\PVZ\\tools.cpp",
+              "RelativeToolTip": "tools.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:37:39.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tools.h",
+              "DocumentMoniker": "D:\\taiyi\\PVZ\\tools.h",
+              "RelativeDocumentMoniker": "tools.h",
+              "ToolTip": "D:\\taiyi\\PVZ\\tools.h",
+              "RelativeToolTip": "tools.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T15:37:37.163Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PVZ.cpp",
               "DocumentMoniker": "D:\\taiyi\\PVZ\\PVZ.cpp",
               "RelativeDocumentMoniker": "PVZ.cpp",
-              "ToolTip": "D:\\taiyi\\PVZ\\PVZ.cpp*",
-              "RelativeToolTip": "PVZ.cpp*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAdAAAA",
+              "ToolTip": "D:\\taiyi\\PVZ\\PVZ.cpp",
+              "RelativeToolTip": "PVZ.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-03T13:20:14.472Z",
               "EditorCaption": ""

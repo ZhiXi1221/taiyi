@@ -6,10 +6,6 @@
 #define WIN_WIDHT  900
 #define WIN_HEIGHT 600
 
-IMAGE imgBg;
-IMAGE imgBar;
-IMAGE imgCards[3];
-
 enum
 {
 	WAN_DOU,
@@ -17,15 +13,23 @@ enum
 	ZHI_WU_COUNT
 };
 
+IMAGE imgBg;
+IMAGE imgBar;
+IMAGE imgCards[ZHI_WU_COUNT];
+IMAGE* imgZhiWu[ZHI_WU_COUNT][20];
+
+
 void initgame()
 {
-	loadimage(&imgBg, "res/bj.png");   //º”‘ÿ±≥æ∞Õº∆¨
-	loadimage(&imgBar, "res/bj.png");
+	loadimage(&imgBg, "res/bg.jpg");   //º”‘ÿ±≥æ∞Õº∆¨
+	loadimage(&imgBar, "res/bar5.png");
+
+	memset(imgZhiWu, 0, sizeof(imgZhiWU));
 
 	char name[64];
 	for (int i = 0; i < ZHI_WU_COUNT; i++)
 	{
-		sprintf_s(name, sizeof(name), "res/%d.png", i + 1);
+		sprintf_s(name, sizeof(name), "res/Cards/card_%d.png", i + 1);
 		loadimage(&imgCards[i], name);
 	}
 
@@ -50,10 +54,31 @@ void updateWindow()
 	EndBatchDraw();
 }
 
+void useClick()
+{
+	ExMessage msg;
+	if (peekmessage(&msg))
+	{
+		if (msg.message == WM_LBUTTONDOWN)
+		{
+
+		}
+		else if(msg.message == WM_MOUSEMOVE)
+		{
+
+		}
+		else if(msg.message == WM_LBUTTONUP)
+		{
+			 
+		}
+	}
+
+}
+
 int main()
 {
 	initgame();
-	while (10)
+	while (1)
 	{
 		useClick();
 		updateWindow();

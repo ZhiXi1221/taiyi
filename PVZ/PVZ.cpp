@@ -42,7 +42,7 @@ void updateWindow()
 	BeginBatchDraw();
 
 	putimage(0, 0, &imgBg);
-	putimage(250, 0, &imgBar);
+	putimagePNG(250, 0, &imgBar);
 	int i = 0;
 	for (i = 0; i < ZHI_WU_COUNT; i++)
 	{
